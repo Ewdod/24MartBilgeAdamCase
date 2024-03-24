@@ -1,0 +1,12 @@
+C:\Users\haybe\Videos\Bordro\Bordro\Bordro\bin\Debug\net8.0\Bordro.deps.json
+C:\Users\haybe\Videos\Bordro\Bordro\Bordro\bin\Debug\net8.0\Bordro.dll
+C:\Users\haybe\Videos\Bordro\Bordro\Bordro\bin\Debug\net8.0\Bordro.pdb
+C:\Users\haybe\Videos\Bordro\Bordro\Bordro\obj\Debug\net8.0\Bordro.csproj.AssemblyReference.cache
+C:\Users\haybe\Videos\Bordro\Bordro\Bordro\obj\Debug\net8.0\Bordro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haybe\Videos\Bordro\Bordro\Bordro\obj\Debug\net8.0\Bordro.AssemblyInfoInputs.cache
+C:\Users\haybe\Videos\Bordro\Bordro\Bordro\obj\Debug\net8.0\Bordro.AssemblyInfo.cs
+C:\Users\haybe\Videos\Bordro\Bordro\Bordro\obj\Debug\net8.0\Bordro.csproj.CoreCompileInputs.cache
+C:\Users\haybe\Videos\Bordro\Bordro\Bordro\obj\Debug\net8.0\Bordro.dll
+C:\Users\haybe\Videos\Bordro\Bordro\Bordro\obj\Debug\net8.0\refint\Bordro.dll
+C:\Users\haybe\Videos\Bordro\Bordro\Bordro\obj\Debug\net8.0\Bordro.pdb
+C:\Users\haybe\Videos\Bordro\Bordro\Bordro\obj\Debug\net8.0\ref\Bordro.dll
